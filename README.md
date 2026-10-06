@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:22d3ee&height=180&section=header&text=Michael%20Nashed&fontSize=44&fontColor=ffffff&desc=Quality%20Engineer%20%E2%80%A2%20Test%20Automation%20%E2%80%A2%20AI%20Testing&descAlignY=72&descSize=16" alt="Michael Nashed" />
 
@@ -137,7 +137,14 @@ A test management app built around Jira-scoped test runs, mixing manual cases wi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mnashed13&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
+  <img src="https://ghchart.rshah.org/2563eb/mnashed13" alt="Contribution graph" width="100%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mnashed13/mnashed13/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/mnashed13/mnashed13/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%" />
+  </picture>
 </p>
 
 ---
