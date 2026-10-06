@@ -14,10 +14,11 @@
 
 I build test automation that teams actually trust: fast, readable, and wired into CI from day one. My focus is **Playwright**, **Cypress**, and the newer problem of **testing AI** — measuring whether LLM features are accurate, safe and consistent, and using AI to speed up the QA work itself.
 
-- 🎭 Designing Playwright frameworks (UI, API, mobile via Appium) with BDD and Page Objects
+- 🎭 Designing Playwright frameworks (UI, API) with BDD and Page Objects
 - 🌲 Writing Cypress E2E and component suites with clean fixtures and custom commands
-- 🤖 Evaluating LLM apps with DeepEval and building AI-assisted QA tooling
+- 🤖 Evaluating LLM apps with DeepEval and building AI-assisted QA tooling 
 - ⚙️ Running everything in GitHub Actions and BrowserStack across real browsers and devices
+- 📱 Building IOS & Android Appium tests with a BDD cucumber layer.
 
 ---
 
